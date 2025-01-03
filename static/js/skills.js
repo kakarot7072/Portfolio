@@ -63,7 +63,7 @@ const skills = {
         },
     ],
 
-    '<img class="w-30 h-10" src="https://demo3xperience13.raybiztech.com/RBT/media/RBT-Images/machine_learning-logo.png">': [
+    '<img class="w-30 h-10" src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8scv9edbordbwv1duxcw.jpg">': [
         {
             name: 'Machine learning',
             level: 45
