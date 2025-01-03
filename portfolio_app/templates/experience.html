@@ -1,0 +1,35 @@
+{% extends 'main.html' %}
+
+<!DOCTYPE html>
+
+{% load static %}
+
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{% block title %}Experience{% endblock %}</title>
+        <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    </head>
+
+    <body class="bg-gray-50">
+        
+        {% block content %}
+
+        <main class="pt-16">
+            <div class="min-h-screen bg-gray-50">
+                <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+                    <h1 class="text-4xl font-bold text-gray-900 mb-12 fade-in">Professional Experience</h1>
+                    <div id="internships-container" class="space-y-8">
+                        <!-- Internships will be loaded here by JavaScript -->
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        {% endblock %}
+
+    </body>
+
+</html>
