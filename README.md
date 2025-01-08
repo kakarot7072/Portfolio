@@ -1,6 +1,6 @@
 # Portfolio Project
 
-This is a personal portfolio project built using Django. The portfolio showcases my career summary, objectives, projects, skills, certificates, and experiences gained through internships and projects. The portfolio also includes a contact page for easy communication.
+This is a personal portfolio project built using Django. The portfolio showcases my career summary, objectives, projects, skills, certificates and experiences gained through internships and projects. The portfolio also includes a contact page for easy communication.
 
 ## Features
 - **Career Summary**: A concise overview of my career objectives and achievements.
@@ -47,8 +47,8 @@ To run this project locally:
 - Add or edit sections like projects, skills, or certificates by updating the respective HTML files and Django views.
 
 ## Preview
-- **Screenshots**[Image](https://github.com/kakarot7072/Portfolio/blob/main/static/images/port.png)
-- **Portfolio**[link](https://portfolio-lilac-nine-71.vercel.app)
+- **Screenshots**: [Image](https://github.com/kakarot7072/Portfolio/blob/main/static/images/port.png)
+- **Portfolio**: [link](https://portfolio-lilac-nine-71.vercel.app)
 
 ## License
 This project is open-source and available under the [KÂKÂRØT](LICENSE).
