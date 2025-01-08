@@ -47,8 +47,8 @@ To run this project locally:
 - Add or edit sections like projects, skills, or certificates by updating the respective HTML files and Django views.
 
 ## Preview
--[Screenshots](https://github.com/kakarot7072/Portfolio/blob/main/static/images/port.png)
--[Portfolio](https://portfolio-lilac-nine-71.vercel.app)
+- **Screenshots**[Image](https://github.com/kakarot7072/Portfolio/blob/main/static/images/port.png)
+- **Portfolio**[link](https://portfolio-lilac-nine-71.vercel.app)
 
 ## License
 This project is open-source and available under the [KÂKÂRØT](LICENSE).
