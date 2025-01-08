@@ -46,8 +46,8 @@ To run this project locally:
 - Update the `settings.py` file to configure any additional settings if needed.
 - Add or edit sections like projects, skills, or certificates by updating the respective HTML files and Django views.
 
-## Screenshots
-
+## Preview
+-[Portfilio](https://portfolio-lilac-nine-71.vercel.app)
 
 ## License
 This project is open-source and available under the [KÂKÂRØT](LICENSE).
