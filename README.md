@@ -11,7 +11,7 @@ This is a personal portfolio project built using Django. The portfolio showcases
 - **Contact Page**: A dedicated page for visitors to reach out to me.
 
 ## Technologies Used
-- **Backend**: Django
+- **Framework**: Django
 - **Frontend**: HTML, CSS, JavaScript
 - **Styling**: CSS for design and layout
 - **Interactivity**: JavaScript for dynamic sections and organization
@@ -55,7 +55,7 @@ This project is open-source and available under the [KÂKÂRØT](LICENSE).
 ## Contact
 For any questions, suggestions, or collaboration opportunities, feel free to reach out:
 
-- **Email**: [kakarot7072@gmail.com](mailto: kakarot7072@gmail.com)
+- **Email**: [kakarot7072@gmail.com](mailto:kakarot7072@gmail.com)
 - **GitHub**: [KÂKÂRØT](https://github.com/kakarot7072)
 
 ---
