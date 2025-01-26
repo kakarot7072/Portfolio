@@ -1,6 +1,6 @@
 const internships = [
     {
-        company: 'Celebal Technologies Private limited',
+        company: 'Celebal Technologies pvt. ltd.',
         position: 'Data Engineer Intern | Center of Excellence',
         period: 'Jun 2024 - Oct 2024',
         location: 'Jaipur, INDIA',
