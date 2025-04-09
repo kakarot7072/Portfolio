@@ -48,7 +48,7 @@ To run this project locally:
 
 ## Preview
 - **Screenshots**: ![Image](https://github.com/kakarot7072/Portfolio/blob/main/static/images/port.png)
-- **Portfolio**: ![link](https://portfolio-lilac-nine-71.vercel.app)
+- **Portfolio**: [link](https://portfolio-lilac-nine-71.vercel.app)
 
 ## License
 This project is open-source and available under the [KÂKÂRØT](LICENSE).
