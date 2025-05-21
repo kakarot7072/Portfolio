@@ -3,35 +3,35 @@ const certificates = [
         title: 'AWSome Day',
         issuer: 'Amazon Web Services',
         date: 'July 2024',
-        image: "/staticfiles/images/ad.jpg",
+        image: "/static/images/ad.jpg",
         link: 'https://www.linkedin.com/posts/kakarot7072_aws-cloudcomputing-awsomeday-activity-7224690187388211201-RCFR?utm_source=share&utm_medium=member_desktop'
     },
     {
         title: 'Center of Excellence',
         issuer: 'Celebal Technologies Private Limited',
         date: 'November 2024',
-        image: '/staticfiles/images/COE.png',
+        image: '/static/images/COE.png',
         link: 'https://www.linkedin.com/posts/kakarot7072_certificateofexcellence-activity-7264274133398495232-EqXS?utm_source=share&utm_medium=member_desktop'
     },
     {
         title: 'Celebal Summer Internship',
         issuer: 'Celebal Technologies Private Limited',
         date: 'November 2024',
-        image: '/staticfiles/images/CSI.png',
+        image: '/static/images/CSI.png',
         link: 'https://www.linkedin.com/posts/kakarot7072_celebal-summer-internship-activity-7264272886503219200-kJaj?utm_source=share&utm_medium=member_desktop'
     },
     {
         title: 'Data Engineering',
         issuer: 'Databricks',
         date: 'August 2024',
-        image: '/staticfiles/images/db.jpg',
+        image: '/static/images/db.jpg',
         link: 'https://www.linkedin.com/posts/kakarot7072_dataengineering-databricks-datascience-activity-7226993811510476802-APmm?utm_source=share&utm_medium=member_desktop'
     },
     {
         title: 'Student Ambassador',
         issuer: 'Microsoft',
         date: 'July 2024',
-        image: '/staticfiles/images/sa.jpg',
+        image: '/static/images/sa.jpg',
         link: 'https://www.linkedin.com/posts/kakarot7072_microsoftlearn-azure-cloudskills-activity-7220743278768316416-7I-M?utm_source=share&utm_medium=member_desktop'
     },
     {
@@ -45,7 +45,7 @@ const certificates = [
         title: 'Learnathon 2023',
         issuer: 'ICT Academy',
         date: 'August 2023',
-        image: '/staticfiles/images/l.jpg',
+        image: '/static/images/l.jpg',
         link: 'https://www.linkedin.com/posts/kakarot7072_ictacademy-learnathon2023-continuouslearning-activity-7205135787590352896-hNN5?utm_source=share&utm_medium=member_desktop'
     },
     {
@@ -59,7 +59,7 @@ const certificates = [
         title: 'Web-Development in Python',
         issuer: 'Infosys',
         date: 'Dec 2024',
-        image: '/staticfiles/images/info.jpg',
+        image: '/static/images/info.jpg',
         link: 'https://www.linkedin.com/posts/kakarot7072_python-webdevelopment-django-activity-7330891084912361472-MRSB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFx1XEBxK8n-RlTXeGeqVIHeE_wXPnZDWo'
     },
 ];
