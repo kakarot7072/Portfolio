@@ -18,7 +18,7 @@ const projects = [
     {
         title: 'Live Cricket Analysis',
         description: 'Developed a analysis of LIVE Cricket match data into a insight dashboard, which can present the match in completed status as-well-as on-going match also.',
-        image: '/staticfiles/images/live.png',
+        image: '/static/images/live.png',
         technologies: ['Python', 'Power BI', 'REST API', 'DAX', 'ETL'],
         github: 'https://github.com/kakarot7072/LiveCricketAnalysis',
         link: 'https://app.powerbi.com/view?r=eyJrIjoiNDk3NWVlOTktOWE0OS00YjhkLTg0MTMtZGQ4NDQzN2Y5YzQxIiwidCI6ImQ0OGQ0NjhjLTI1MzktNGU4YS1iNmM0LTkwNTYxNDY5ZmU3ZCJ9&pageName=9c8ac4dfd78b06116b25'
@@ -34,7 +34,7 @@ const projects = [
     {
         title: 'Portfolio',
         description: 'Developed a full-responsive website containing my Portfolio using Python.',
-        image: '/staticfiles/images/port.png',
+        image: '/static/images/port.png',
         technologies: ['Python', 'Django', 'HTML', 'CSS', 'JS', 'Pillow'],
         github: 'https://github.com/kakarot7072/Portfolio',
         link: ''
