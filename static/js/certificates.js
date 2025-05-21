@@ -38,7 +38,7 @@ const certificates = [
         title: 'Data Analysis',
         issuer: 'Microsoft | LinkedIn',
         date: 'June 2024',
-        image: 'https://media.licdn.com/dms/image/sync/v2/D5622AQG71QMThdiOxg/feedshare-shrink_800/feedshare-shrink_800/0/1718171093684?e=1738195200&v=beta&t=RwOPdw-_QGeqROEFh_M-9MRnYWDQv2epiojnXtokHzM',
+        image: 'ml.jpg',
         link: 'https://www.linkedin.com/posts/kakarot7072_certificate-of-completion-activity-7206532276954828800-sH_t?utm_source=share&utm_medium=member_desktop'
     },
     {
@@ -58,7 +58,7 @@ const certificates = [
     {
         title: 'Web-Development in Python',
         issuer: 'Infosys',
-        date: 'Dec 2024',
+        date: 'December 2024',
         image: '/static/images/info.jpg',
         link: 'https://www.linkedin.com/posts/kakarot7072_python-webdevelopment-django-activity-7330891084912361472-MRSB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFx1XEBxK8n-RlTXeGeqVIHeE_wXPnZDWo'
     },
