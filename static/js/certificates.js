@@ -38,7 +38,7 @@ const certificates = [
         title: 'Data Analysis',
         issuer: 'Microsoft | LinkedIn',
         date: 'June 2024',
-        image: 'ml.jpg',
+        image: '/static/images/ml.jpg',
         link: 'https://www.linkedin.com/posts/kakarot7072_certificate-of-completion-activity-7206532276954828800-sH_t?utm_source=share&utm_medium=member_desktop'
     },
     {
